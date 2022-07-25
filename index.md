@@ -1,6 +1,7 @@
 # Welcome to an HowTO with OpenOCD on TI's K3 SoCs
 
-* Placeholder for Table of Content (Must not be removed) <newline> {:toc}
+* TOC
+{:toc}
 
 # Introduction
 
