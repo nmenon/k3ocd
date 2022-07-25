@@ -9,6 +9,8 @@ System on Chips (SoCs) are complex one way or other. Gone are the days where you
 and figure out exactly where your code broke, meh.. at least that would be a bit inefficient use of
 your time.
 
+## Basic JTAG concept
+
 [JTAG](https://en.wikipedia.org/wiki/JTAG) debugging tools is essential in the toolkit
 of an embedded engineer. And it has been always there for eons.
 
