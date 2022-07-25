@@ -43,8 +43,8 @@ various SoC manufacturer as well.
 At an industry level, Lauterbach or Trace32 (as people like to call it), is a much venerated debugger.
 So much so that it that some call it the "lamborghini" for debugging. Their offerings are
 [varied](https://www.lauterbach.com/frames.html?powerdebugpro.html) with functionality scaling
-scaling way up into pretty much fancy features. But then, when you pay the top $$$, you do expect
-to get the $$$s worth of features..
+scaling way up into pretty much fancy features. But then, when you pay the top \$, you do expect
+to get the \$ worth of features..
 
 Usage model mostly follows a similar sequence of debugger (with so called dongle)+ IDE interfacing
 with the jtag signals (in some cases, additional trace signalling) and providing a view to the user
