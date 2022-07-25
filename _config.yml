@@ -1,1 +1,4 @@
 theme: jekyll-theme-hacker
+markdown: kramdown
+title: OpenOCD primer for TI's K3 SoCs
+description: Primer on openOCD and how it works on TI's K3 SoCs and general tips etc..
