@@ -136,6 +136,7 @@ Unfortunately, it is a mayhem of connectors, cables and adpaters and standards t
 Debugger that works best and with the least hassle is the TUMPA (TIAO USB Multi-Protocol Adapter)
 https://www.diygadget.com/jtag-cables-and-microcontroller-programmers/tiao-usb-multi-protocol-adapter-jtag-spi-i2c-serial
 
+![TUMPA Jumper positions](img/tumpa-jumper-positions.png)
 
 ### J721E BeagleBone AI64
 
