@@ -175,6 +175,7 @@ This is more of the convention of most of the traditional TI EVM designs. with a
 * Sadly [https://www.tincantools.com/product/arm20cti20-cti-20-pin-jtag-adapter-board/](https://www.tincantools.com/product/arm20cti20-cti-20-pin-jtag-adapter-board/) is out of stock :(
 * [https://www.segger.com/products/debug-probes/j-link/accessories/adapters/ti-cti-20-adapter/](https://www.segger.com/products/debug-probes/j-link/accessories/adapters/ti-cti-20-adapter/)
 * [https://www.lauterbach.com/ad3780.html](https://www.lauterbach.com/ad3780.html) ( I believe I used a Lauterbach LA-3780)
+* [https://github.com/mmorawiec/BeagleBone-Black-JTAG-Adapters](https://github.com/mmorawiec/BeagleBone-Black-JTAG-Adapters)
 
 You do want to be careful about the signalling though.
 [https://software-dl.ti.com/ccs/esd/xdsdebugprobes/emu_jtag_connectors.html](https://software-dl.ti.com/ccs/esd/xdsdebugprobes/emu_jtag_connectors.html) is something to be aware of when buying off the shelf adapters.
